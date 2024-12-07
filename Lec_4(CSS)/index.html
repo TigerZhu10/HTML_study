@@ -1,2 +1,20 @@
-<!-- 当遇见任何在style.css里面的改动时检查所有地方 -->
+
+
+
+<!-- inline: -->
+<p style="color: blue; font-size: 16px;">This is styled text.</p>
+
+<!-- internal: -->
+    <style>
+        p {
+            color: green;
+            font-size: 20px;
+        }
+    </style>
+    <p>This is styled text.</p>
+
+
+<!-- external: -->
 <link rel = "stylesheet" href = "./style.css">
+
+

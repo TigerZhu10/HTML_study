@@ -1,0 +1,19 @@
+.example-text {
+    font-family: Jaro;
+    font-size: 40px;
+    font-weight: 1000;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.box{
+    background-color:bisque;
+    font-size: 20px;
+    border: 60px solid purple;
+    
+    border-width:10px,200px,30px,40px; 
+    padding: 40px;
+    margin-top: 100px;
+
+
+}
