@@ -1,0 +1,38 @@
+.example-text {
+    font-family: Jaro;
+    font-size: 40px;
+    font-weight: 1000;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.a_box{
+    font-family:'Courier New', Courier, monospace;
+    background-color: yellow;
+    font-size: 20px;
+    border: 15px solid black;
+    text-align: center;
+
+    padding: 50px;
+    margin-right: 500px;
+
+}
+
+.b_box{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:brown;
+    font-size: 20px;
+    border: 25px solid black;
+    padding: 50px;
+    margin-left: 570px;
+
+}
+
+.c_box{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:blueviolet;
+    font-size: 20px;
+    border: 15px solid black;
+    padding: 50px;
+    margin-right: 500px;
+}
